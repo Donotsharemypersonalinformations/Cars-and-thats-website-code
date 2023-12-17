@@ -5,7 +5,7 @@
   padding: var(--dl-space-space-halfunit);
   position: relative;
   align-items: center;
-  border-color: #ffffff;
+  border-color: #f3e9e9;
   border-width: 1px;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: row;
